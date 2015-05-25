@@ -1,5 +1,5 @@
-The Contributors License Agreement
-==========================================
+GNS3 Contributors License
+=========================
 
 Version 1.0
 -----------
@@ -27,7 +27,7 @@ To help protect all members of our Platform and our contributors, we require tha
 User Acknowledgement
 --------------------
 
-I acknowledge and agree that I have read and understood the terms of the GNS3 Contributors License, Version 1 (“CLA”) and hereby state that all code and software that I hereafter provide to GNS3 Technologies, Inc., shall constitute a Contribution as such term is defined in the CLA pursuant to the terms and conditions of the CLA, to which I agree to be bound, unless I specifically mark such code or software as “NOT A CONTRIBUTION” at the time of submission.
+**I acknowledge and agree that I have read and understood the terms of the GNS3 Contributors License, Version 1 (“CLA”) and hereby state that all code and software that I hereafter provide to GNS3 Technologies, Inc., shall constitute a Contribution as such term is defined in the CLA pursuant to the terms and conditions of the CLA, to which I agree to be bound, unless I specifically mark such code or software as “NOT A CONTRIBUTION” at the time of submission.**
 
 I represent and promise that I have all authority to make this agreement and sign this declaration.
 
