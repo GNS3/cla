@@ -14,7 +14,7 @@ In particular, in order for us to accept any major patches from you, you will ha
 
 The reason we do this is to ensure, to the extent possible, that we don’t “taint” the projects we manage with contributions that turn out to be improper. This protects everyone who wants to use the projects, including you!
 
-Once you sign the Contributor License Agreement (the “CLA”), we will then be able to merge your contributions with a clear conscience and with only the friction that results from the usual technical back-and-forth of a vibrant open source project.
+Once you sign the [Contributor License Agreement](cla.md) (the “CLA”), we will then be able to merge your contributions with a clear conscience and with only the friction that results from the usual technical back-and-forth of a vibrant open source project.
 
 To get started with this process, visit the [Sign the CLA page](sign-cla.md).
 
