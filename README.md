@@ -16,6 +16,6 @@ The reason we do this is to ensure, to the extent possible, that we don’t “t
 
 Once you sign the Contributor License Agreement (the “CLA”), we will then be able to merge your contributions with a clear conscience and with only the friction that results from the usual technical back-and-forth of a vibrant open source project.
 
-To get started with this process, visit the [Sign the CLA page](cla.md).
+To get started with this process, visit the [Sign the CLA page](sign-cla.md).
 
 For reference, the standard open source license used by GNS3 is the [GNU GENERAL PUBLIC LICENSE version 3](LICENSE).
