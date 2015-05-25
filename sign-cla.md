@@ -26,8 +26,8 @@ document about it](https://help.github.com/articles/using-pull-requests).
 Make your pull request be the addition of a single file to the
 [contributors](contributors) directory of this project. Name the file
 with the same name as your GitHub userid, with `.md` appended to the
-end. For example, for the user `johndoe`, the full path to the file
-would be `contributors/johndoe.md`.
+end. For example, for the user `noplay`, the full path to the file
+would be `contributors/noplay.md`.
 
 Put the following in the file:
 
