@@ -18,4 +18,4 @@ Once you sign the [Contributor License Agreement](cla.md) (the “CLA”), we wi
 
 To get started with this process, visit the [Sign the CLA page](sign-cla.md).
 
-For reference, the standard open source license used by GNS3 is the [GNU GENERAL PUBLIC LICENSE version 3](LICENSE).
+For reference, the standard open source license under which GNS3 licenses its platform and software, including your contribution is the [GNU GENERAL PUBLIC LICENSE version 3](LICENSE).
