@@ -1,6 +1,9 @@
 CONTRIBUTOR LICENSE AGREEMENT
 =============================
 
+Version 2.0
+------------
+
 1. **SCOPE OF AGREEMENT.**  This Contributor License Agreement (“**Agreement**”) is a 
 legal agreement that governs the interactions between GNS3 and the copyright owner or 
 legal entity authorized by the copyright owner that is making this Agreement (“**You**” or 
